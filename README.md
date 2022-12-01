@@ -1,2 +1,2 @@
-# carta-wfactura-equipo-2
+# carta-factura-equipo-2
 Ejercicio the bridge factura y carta
